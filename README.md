@@ -3,7 +3,7 @@
 Prototipo web y documentación de arquitectura (paradigma 4+1) del caso de estudio **Sockbuster Video & Socks**.
 Asignatura: Modelamiento de soluciones informáticas (TI3025), Evaluación 3. Autores: **Felipe Avendaño** y **María Cartagena**.
 
-**Sitio publicado:** https://TU-SITIO.netlify.app  <!-- reemplazar por la URL real de Netlify -->
+**Sitio publicado:** https://vendemoscalcetinesoalgoadospuntouve.netlify.app
 
 ## Páginas
 - `index.html`: presentación de la marca y autor.
